@@ -88,7 +88,7 @@ export default function Projects() {
                       rel="noreferrer"
                       className="text-[#64748B] hover:text-[#38BDF8] transition-colors duration-200 text-sm"
                     >
-                      ↗
+                      GitHub ↗
                     </a>
                   )}
                 </div>

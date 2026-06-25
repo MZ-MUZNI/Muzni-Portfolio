@@ -5,7 +5,7 @@ export const projects = [
     description: "A machine learning system for detecting emotional distress patterns in Singlish social media content and providing personalized digital detox recommendations.",
     tech: ["Python", "scikit-learn", "HuggingFace", "Streamlit"],
     github: "https://github.com/MZ-MUZNI/SinMood-UI",
-    live: "https://huggingface.co/spaces/",
+    live: "https://huggingface.co/spaces/mzmuzni/SinMood-UI",
     featured: true
   },
   {
@@ -45,7 +45,7 @@ export const projects = [
     subtitle: "Multi-page Club Website",
     description: "A full-featured responsive website with e-commerce shop, interactive quiz, image gallery, and contact forms.",
     tech: ["HTML5", "CSS3", "JavaScript"],
-    github: "#",
+    github: "https://github.com/MZ-MUZNI/Web-Development-Project",
     featured: false
   }
 ];

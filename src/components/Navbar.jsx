@@ -30,6 +30,7 @@ export default function Navbar() {
         </div>
         <a
           href="/cv.pdf"
+          download="Muzni_Maznavi_CV.pdf"
           className="border border-[#38BDF8] text-[#38BDF8] px-4 py-2 rounded text-sm hover:bg-[#38BDF8]/10 transition-colors duration-200"
         >
           Download CV

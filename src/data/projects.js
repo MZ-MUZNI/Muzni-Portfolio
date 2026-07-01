@@ -17,6 +17,14 @@ export const projects = [
     featured: true
   },
   {
+    title: "Diabetes Prediction",
+    subtitle: "ML Classification Model",
+    description: "A machine learning project predicting diabetes risk from patient health metrics using the Pima Indians Diabetes Dataset, with data preprocessing, feature engineering, and multi-algorithm evaluation.",
+    tech: ["Python", "scikit-learn", "pandas", "matplotlib", "Jupyter Notebook"],
+    github: "https://github.com/MZ-MUZNI/Diabetes_Prediction",
+    featured: false
+  },
+  {
     title: "Football Leagues",
     subtitle: "Android Club & League Browser",
     description: "An Android application enabling users to search, browse, and manage football club and league information with offline database and live web search.",

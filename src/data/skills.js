@@ -17,7 +17,7 @@ export const skills = [
   },
   {
     category: "ML & AI",
-    items: ["scikit-learn", "Transformers", "XLM-RoBERTa", "NLTK"]
+    items: ["scikit-learn", "Transformers (HuggingFace)", "XLM-RoBERTa", "NLTK", "pandas", "matplotlib"]
   },
   {
     category: "Databases",

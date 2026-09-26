@@ -27,11 +27,7 @@ A personal portfolio website built with React and Vite to showcase projects, ski
 
 ## Demo
 
-Add a link to a live demo or screenshots here.
-
-- Live: https://your-domain.example.com
-
-You can also add images or animated GIFs in the repository's `public/` or `assets/` folder and reference them here.
+- Live: https://mz-muzni.github.io/Muzni-Portfolio/
 
 ---
 

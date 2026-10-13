@@ -5,7 +5,7 @@ export const skills = [
   },
   {
     category: "Web Development",
-    items: ["HTML", "CSS", "JavaScript", "ASP.NET WebForms", "ASP.NET Web API", "Streamlit"]
+    items: ["ASP.NET Core MVC", "ASP.NET Core Web API", "Entity Framework Core", "HTML", "CSS", "JavaScript", "Streamlit"]
   },
   {
     category: "Mobile Development",
@@ -13,7 +13,7 @@ export const skills = [
   },
   {
     category: "Frameworks",
-    items: [".NET Framework", "ASP.NET WebForms", "ASP.NET Web API", "Flutter"]
+    items: [".NET", ".NET Framework", "ASP.NET Core Identity", "ASP.NET WebForms", "Flutter"]
   },
   {
     category: "ML & AI",
@@ -21,7 +21,7 @@ export const skills = [
   },
   {
     category: "Databases",
-    items: ["MSSQL", "SQLite", "Firebase", "MongoDB"]
+    items: ["SQL Server", "MSSQL", "SQLite", "Firebase", "MongoDB"]
   },
   {
     category: "Tools & Platforms",

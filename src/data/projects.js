@@ -1,5 +1,14 @@
 export const projects = [
   {
+    title: "DevTrack",
+    subtitle: "Layered Sprint & Task Tracking System",
+    description: "A full-stack ASP.NET Core MVC application for sprint and task management, built with a layered architecture, modern authentication, and role-based access control.",
+    tech: ["C#", "ASP.NET Core MVC", "Entity Framework Core", "SQL Server", "ASP.NET Core Identity"],
+    github: "https://github.com/MZ-MUZNI/DevTrack",
+    // live: "https://huggingface.co/spaces/mzmuzni/SinMood-UI",
+    featured: true
+  },
+  {
     title: "SinMood",
     subtitle: "Emotional Distress Detection in Singlish Social Media",
     description: "A machine learning system for detecting emotional distress patterns in Singlish social media content and providing personalized digital detox recommendations.",
